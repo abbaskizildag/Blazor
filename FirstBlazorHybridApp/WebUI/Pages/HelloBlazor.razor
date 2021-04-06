@@ -1,0 +1,13 @@
+﻿@page "/hello"
+@page "/merhaba"
+@page "/helloblazor"
+@page "/hello/{deneme}"
+
+<h3>HelloBlazor</h3>
+<p>Eğer parametre alırsa burada gösteriyorum @deneme</p>
+
+<Counter />
+
+@code {
+    [Parameter] public string deneme { get; set; }
+}

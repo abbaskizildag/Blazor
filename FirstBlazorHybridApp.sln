@@ -12,11 +12,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBlazorHybridApp.Window
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBlazorHybridApp.macOS", "FirstBlazorHybridApp.macOS\FirstBlazorHybridApp.macOS.csproj", "{E8F93D81-DE66-4033-BB9E-BEC7F32FDFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBlazorHybridApp.Web.Server", "FirstBlazorHybridApp.Web\Server\FirstBlazorHybridApp.Web.Server.csproj", "{8BC8023B-6596-4BED-AD64-97B82C8F5EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBlazorHybridApp.Web.Server", "FirstBlazorHybridApp.Web\Server\FirstBlazorHybridApp.Web.Server.csproj", "{8BC8023B-6596-4BED-AD64-97B82C8F5EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBlazorHybridApp.Web.Client", "FirstBlazorHybridApp.Web\Client\FirstBlazorHybridApp.Web.Client.csproj", "{D58A0C44-7571-4D5D-8763-8E9666D16683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBlazorHybridApp.Web.Client", "FirstBlazorHybridApp.Web\Client\FirstBlazorHybridApp.Web.Client.csproj", "{D58A0C44-7571-4D5D-8763-8E9666D16683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBlazorHybridApp.Web.Shared", "FirstBlazorHybridApp.Web\Shared\FirstBlazorHybridApp.Web.Shared.csproj", "{D46EE314-DA6F-46FC-A4F7-7450CA406139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBlazorHybridApp.Web.Shared", "FirstBlazorHybridApp.Web\Shared\FirstBlazorHybridApp.Web.Shared.csproj", "{D46EE314-DA6F-46FC-A4F7-7450CA406139}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
