@@ -1,0 +1,10 @@
+<Router AppAssembly="@typeof(FirstBlazorHybridApp.Main).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(FirstBlazorHybridApp.WebUI.Shared.MainLayout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(FirstBlazorHybridApp.WebUI.Shared.MainLayout)">
+            <p>Sorry, there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router>
